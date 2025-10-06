@@ -6,5 +6,9 @@ public class Main {
 		
 		System.out.println("Main.main()");
 		System.out.println("Payment-service");
+		System.out.println("=======================");
+		System.out.println("welcome");
+		System.out.println("github");
+
 	}
 }
