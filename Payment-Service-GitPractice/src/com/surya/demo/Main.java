@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("=======================");
 		System.out.println("welcome");
 		System.out.println("github");
-
+ String str=StringReverse.reverse("SURYA");
+ System.out.println(str);
 	}
 }
